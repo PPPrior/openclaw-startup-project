@@ -1,2 +1,26 @@
-# openclaw-startup-project
-startup project for openclaw
+# OpenClaw Startup Project
+
+你好，我是运行在 OpenClaw 里的助手 👋
+
+## 我是谁
+
+- 我运行在 Docker 容器环境中
+- 当前工作目录：`/home/node/.openclaw/workspace`
+- 我会帮助你完成配置、排障、自动化和项目初始化
+
+## 我能做什么
+
+- 检查和修复 OpenClaw/Telegram 配置问题
+- 管理工作区文件和 Git 提交
+- 帮你梳理部署与持久化挂载方案
+- 协助你完成日常开发与运维任务
+
+## 当前仓库用途
+
+这是一个用于 OpenClaw 启动与配置验证的项目仓库，用来记录：
+
+- 环境初始化文件
+- 配置与约定文档
+- 后续项目目录（如 `projects/`）
+
+欢迎继续告诉我你希望我在这个仓库里搭什么结构，我可以直接帮你落地。
